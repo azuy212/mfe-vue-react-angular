@@ -23,12 +23,12 @@ yarn start
 
 **OR**
 
-Go to individual projects start them,
+Go to individual projects start them, or
 
 ```bash
-cd shell && yarn start
-cd home && yarn start
-cd pdp && yarn start
+yarn start:shell
+yarn start:home
+yarn start:pdp
 ```
 
 ## Shell App
