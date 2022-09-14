@@ -15,3 +15,7 @@ Home App is a **React** app. It will list all products which will be fetched usi
 ## PDP (Product Detail Page) App
 
 PDP App is an **Angular** app. It will show product details (image, price, description) which will be fetched using a service method exposed by shell app.
+
+## Block Diagram
+
+![Multi Framework Microfrontend Block Diagram](./mfe-block-diagram.png)
